@@ -1,6 +1,5 @@
-*This is a school project I did last year, on tensors and singular value decomposition.
-I had to answer a series of questions, and the following text references those questions to help my professor better understand my mistakes.
-It is in french.* 
+*This is a school project I did last year, on tensors and singular value decomposition. It is in french.
+I had to answer a series of questions, and the following text references those questions to help my professor better understand my mistakes. I did not finish all the project.* 
 
 ##  Structure du projet
 
